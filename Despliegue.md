@@ -28,7 +28,7 @@ Explicacion del proceso de despliegue.
         El navegador no tenía restricciones para acceder a APIs como cámara, micrófono, etc.
 7. Implementación de Medidas de Seguridad:
 
-    Se creó un archivo llamado security.json en la raíz del proyecto.
+    Se creó un archivo llamado vercel.json en la raíz del proyecto.
   
     En este archivo se definieron las cabeceras de seguridad recomendadas por securityheaders.com.
 
